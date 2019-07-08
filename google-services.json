@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580091990557",
+    "firebase_url": "https://phonedb-949ab.firebaseio.com",
+    "project_id": "phonedb-949ab",
+    "storage_bucket": "phonedb-949ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580091990557:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580091990557-3ki38n4qfjpl36i0ol02gqose06em4tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "79333c62a686aab0212cc537ad928374f01327fb"
+          }
+        },
+        {
+          "client_id": "580091990557-jiia9ioco5hvo09eavrr6sdt8fcake9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AzCFJR1UghiEnUUnM7BP88t_UF3CZtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580091990557-jiia9ioco5hvo09eavrr6sdt8fcake9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
